@@ -38,7 +38,7 @@ The project performs complete text preprocessing, feature extraction using TF-ID
 | SVM                  | Best Performing Model |
 
 
-## Confusipon matrix 
+## Confusion matrix 
 
 <img width="588" height="487" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/e5ba2596-4638-4d3b-8e1b-ca859083d4cc" />
 
