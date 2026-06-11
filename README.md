@@ -28,6 +28,11 @@ The project performs complete text preprocessing, feature extraction using TF-ID
 * Real-time Emotion Prediction
 * Premium Apple-inspired Streamlit UI
 
+  ## Visit my app :
+  https://emotionsense-ai-nlp-emotion-detection-using-machine-learning-g.streamlit.app/
+
+  your feedback is most valuable for me.if any kind of suggestion or creative idea for this apprelated to any field ,please let me know.
+
 ## 📊 Model Performance
 
 | Model                | Accuracy              |
